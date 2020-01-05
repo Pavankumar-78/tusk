@@ -4,6 +4,8 @@ Biriyani
 pasta
 Chicken
 
+Beans
+Pizza
 
 
 
